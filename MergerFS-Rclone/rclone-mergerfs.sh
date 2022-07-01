@@ -17,8 +17,8 @@ paths[2]="${HOME}/Stuff/Local/Downloads/torrents"
 paths[3]="${HOME}/Stuff/Local/Downloads/usenet"
 paths[4]="${HOME}/MergerFS"
 paths[5]="${HOME}/scripts"
-paths[6]="${HOME}/Stuff/Local/Movies"
-paths[7]="${HOME}/Stuff/Local/TV Shows"
+paths[6]="${HOME}/Stuff/Local/Plex/Movies"
+paths[7]="${HOME}/Stuff/Local/Plex/TV Shows"
 
 #Checks
 
