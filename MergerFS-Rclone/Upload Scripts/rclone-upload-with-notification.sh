@@ -7,9 +7,9 @@
 # -----------------------------------------------------------------------------
 
 SOURCE_DIR="$HOME/Stuff/Local/"
-DESTINATION_DIR="remote:"
+DESTINATION_DIR="crypt:Plex"
 
-DISCORD_WEBHOOK_URL=""
+DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/1086756857256874135/wREPmzc4OwapBHc3-Z6Mq3Qra0GGqUU3aM8O5q8iRKfd-RgljO_wXpZwmyzq501sxiDS"
 DISCORD_ICON_OVERRIDE="https://i.imgur.com/MZYwA1I.png"
 DISCORD_NAME_OVERRIDE="RCLONE"
 
